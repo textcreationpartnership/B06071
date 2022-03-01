@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Commissioners at Leith. Forasmuch as by the blessing of the Lord upon the late proceedings of the English nation in their councels, enterprises, and engagements with Scotland, the Common-Wealth of England hath obtained lawfull right and title to all dues ...</title>
+            <author>England and Wales. Parliament. Commissioners for Ordering and Managing Affairs in Scotland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06071</idno>
+            <idno type="STC">Wing S996C</idno>
+            <idno type="STC">ESTC R183808</idno>
+            <idno type="EEBO-CITATION">52529178</idno>
+            <idno type="OCLC">ocm 52529178</idno>
+            <idno type="VID">178869</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06071)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178869)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2774:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Commissioners at Leith. Forasmuch as by the blessing of the Lord upon the late proceedings of the English nation in their councels, enterprises, and engagements with Scotland, the Common-Wealth of England hath obtained lawfull right and title to all dues ...</title>
+                  <author>England and Wales. Parliament. Commissioners for Ordering and Managing Affairs in Scotland.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>by Evan Tyler,</publisher>
+                  <pubPlace>Printed at Leith :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and first lines of text.</note>
+                  <note>Initial letter.</note>
+                  <note>Blank spaces in text filled in ms.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Finance, Public --  Law and legislation --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:178869:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <head>BY THE COMMISSIONERS At <hi>LEITH.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as by the bleſsing of the LORD upon the late proceed<g ref="char:EOLhyphen"/>ings of the <hi>Engliſh</hi> Nation in their councels, enterpriſes and engage<g ref="char:EOLhyphen"/>ments with <hi>Scotland,</hi> the Common-VVealth of <hi>England</hi> hath obtained lawfull Right and Title to all Dues, Debts, Rents, Royalties and Reve<g ref="char:EOLhyphen"/>nues, what or whereſoever belonging to the late King of <hi>Scotland,</hi> of which, a juſt and true accompt is expected from all and every perſon or perſons concerned in the premiſſes.</p>
+            <p>Theſe are therefore to require, That within the ſpace of  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  dayes after publication hereof, in the County of  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  all Fue-Duties, Rents, Profits and Caſualities within the County aforeſaid, (being ſuch as aforeſaid, and immediatly payable to the Exchequer, and which have been uſually ſo paid by the Tennants, Fuars, or Subtennants, from whom the ſame are due) be for time to come, brought in, and ten<g ref="char:EOLhyphen"/>dred to the Commiſsioners in <hi>Leith.</hi>
+            </p>
+            <p>And foraſmuch as the Petty-Impoſts of the reſpective Counties and Towns of this Nation, have been Farmed out to divers Perſons; Theſe are therefore to require all ſuch Perſons, Colle<g ref="char:EOLhyphen"/>ctors, or Farmorers of the aforeſaid Peny-Impoſts, with all convenient ſpeed, to bring in what is preſently remaining in their hands; And ſuch of them as are willing to hold the ſame, as former<g ref="char:EOLhyphen"/>ly, ſhall (for the ſpace of a year enſuing) be continued in the ſaid Charge, and have power given them to Collect what ſhall be judged to be juſtly in Arrear.</p>
+            <p>And if any perſon (after ſuch publication as aforeſaid) ſhall preſume to fail hereof, or be found to deal deceitfully herein, by denying or concealing any part of that Rent or Duty paiable as aforeſaid, he ſhall thereby forfeit ſo much as he hath, holds and claimes, by the paiment of ſuch Rents and Duties. And that the aforeſaid Tennants and Fuars (upon paiment of their reſpe<g ref="char:EOLhyphen"/>ctive Rents and Duties) may receive a full Diſcharge from the Commiſſioners aforeſaid, they are required to produce ſuch Acquittances or Diſcharges, (as they laſt and formerly received from the Exchequer) whereof they may not fail.</p>
+            <p>And upon the aforeſaid Penalty, all Tennants, Fuars, and Subtennants, who are not bound (as aforeſaid) to bring in their Rents and Duties to the Exchequer, but to make paiment thereof to Collectors, Chamberlains, or other Officers within the ſaid County, are required by theſe preſents, to make paiment of their ſaid Rents and Duties (either preſent, or in arrear) to Maſter  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  and Maſter  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  being by Us appointed and authorized to Collect the ſame: diſcharging all Chamberlains, and other Officers for the late King, from dealing or intermedling therewithall, as heretofore.</p>
+            <p>Furthermore, VVe require and charge all other perſons, of the aforeſaid County, indebted to the late King, upon any Accompt whatſoever, to make paiment thereof to the aforeſaid Par<g ref="char:EOLhyphen"/>ties, within ſuch reaſonable time as they ſhall ſee cauſe to ſet.</p>
+            <p>Laſtly, all Chamberlains, Collectors, and other Officers, being of, or for the ſaid County, and concerned in the premiſſes, as accomptable and indebted for what they have received and uplifted (or for any part thereof remaining in their hands) are hereby charged and required to accompt and make paiment thereof to the Parties above-named; which is accordingly to be performed upon pain of forfeiting the double value.</p>
+            <closer>
+               <dateline>
+                  <hi>Given under our hands</hi>
+                  <date>
+                     <hi>this firſt of</hi> March 1651.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed at</hi> Leith <hi>by</hi> Evan Tyler. 1651.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
